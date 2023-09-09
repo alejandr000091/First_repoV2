@@ -6,6 +6,7 @@ import shutil
 #
 # add commnet
 # pycharm commit
+# cdsfsdf
 
 CATEGORIES = {"Audio": [".mp3", ".wav", ".flac", ".wma", ".ogg", ".wav", ".amr"],
               "Docs": [".docx", ".txt", ".pdf", ".doc", ".xlsx", ".pptx"],

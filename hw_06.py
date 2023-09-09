@@ -4,7 +4,8 @@ import os
 import stat
 import shutil
 #
-
+# add commnet
+# pycharm commit
 
 CATEGORIES = {"Audio": [".mp3", ".wav", ".flac", ".wma", ".ogg", ".wav", ".amr"],
               "Docs": [".docx", ".txt", ".pdf", ".doc", ".xlsx", ".pptx"],
